@@ -20,7 +20,7 @@
                     </div>
                     <br />
                     <div class="content">
-                        That one trap with a passion for music & web development
+                        A Cookie V2 with a passion for music & web development
                         <br />
                         <br />
                         <small>Ask me anything at: askmeanything@trapdoes.tech</small>
