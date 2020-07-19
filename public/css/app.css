@@ -410,7 +410,7 @@ th:not([align]) {
 }
 
 html {
-  background-color: #f1daec;
+  background-color: 0xb67dac;
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -1434,7 +1434,7 @@ fieldset[disabled] .button.is-link.is-inverted.is-outlined {
 }
 
 .button.is-info {
-  background-color: #ffc4ff;
+  background-color: #6cb2eb;
   border-color: transparent;
   color: #fff;
 }
@@ -3268,7 +3268,7 @@ fieldset[disabled] .button {
 }
 
 .tag:not(body).is-info {
-  background-color: #f58cff;
+  background-color: #6cb2eb;
   color: #fff;
 }
 

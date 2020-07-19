@@ -4,7 +4,7 @@
         $i = user();
         $json = json_decode($i);
     @endphp
-    <div id="waves"></div>
+    <div id="waves" class="is-invisible-mobile"></div>
     <div class="container">
         <div class="hero-body">
             <div class="container has-text-centered">
