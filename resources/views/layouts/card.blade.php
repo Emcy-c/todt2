@@ -24,12 +24,46 @@
                         <br />
                         <br />
                         <small>Ask me anything at: askmeanything@trapdoes.tech</small>
-                        <br />
-                        <br />
-                        <strong>PS.</strong><small>You're a super cutie</small>
                     </div>
                 </div>
-            </div>
+                <br/>
+                <nav class="panel has-text-centered" style="background-color: white;">
+                            <div class="panel-block">
+                                <div class="columns is-multiline is-centered">
+
+                                <div class="container is-fluid is-centered">
+
+                                <div class="column">
+
+                                <a href="https://trapdoes.tech">
+                                <span class="tag is-info is-medium">My Website</span>
+                                </a>
+                            </div>
+                            <div class="column">
+                                <a href="https://discord.com/users/390179632911089666">
+                                    <span class="tag is-info is-medium">My Discord</span>
+                                </a>
+                            </div>
+                            <div class="column">
+                                <a href="https://dsc.bio/trap">
+                                    <span class="tag is-info is-medium">Discord Bio</span>
+                                </a>
+                            </div>
+                            <div class="column">
+                                <a href="mailto:neko@trapdoes.tech">
+                                    <span class="tag is-info is-medium">neko@trapdoes.tech</span>
+                                </a>
+
+                            </div>
+
+
+
+                    </div>
+                    </div>
+                    </div>
+                </nav>
+
+
         </div>
 
     </div>
