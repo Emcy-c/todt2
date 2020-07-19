@@ -14,3 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'RouteController@index');
+
+Route::prefix('/oc')->group(function () {
+  Route::get('/koemi', 'RouteController@koemi');
+});
