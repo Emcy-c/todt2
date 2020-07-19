@@ -410,7 +410,7 @@ th:not([align]) {
 }
 
 html {
-  background-color: 0xb67dac;
+  background-color: #B67DAC;
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
