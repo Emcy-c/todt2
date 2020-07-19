@@ -1,18 +1,18 @@
 <section class="hero is-medium">
     <div class="hero-head">@include ('layouts.nav')</div>
     @php
-    $i = user();
-    $json = json_decode($i);
+        $i = user();
+        $json = json_decode($i);
     @endphp
     <div id="waves"></div>
-            <div class="container">
-    <div class="hero-body">
-        <div class="container has-text-centered">
+    <div class="container">
+        <div class="hero-body">
+            <div class="container has-text-centered">
                 <div class="card shadow">
                     <div class="card-image">
                         <figure class="image container is-128x128">
                             <img class="is-rounded"
-                                src="https://cdn.discordapp.com/avatars/{{ $json->id }}/{{ $json->avatar }}.gif?size=2048">
+                                 src="https://cdn.discordapp.com/avatars/{{ $json->id }}/{{ $json->avatar }}.gif?size=2048">
                         </figure>
                     </div>
                     <div class="media-content has-text-centered">
@@ -23,24 +23,26 @@
                         That one trap with a passion for music & web development
                         <br />
                         <br />
-                        <small>You're a super cutie</small>
+                        <small>Ask me anything at: askmeanything@trapdoes.tech</small>
+
+                        <strong>PS.</strong><small>You're a super cutie</small>
                     </div>
                 </div>
+            </div>
         </div>
-    </div>
 
     </div>
 </section>
 <style>
-.card {
-    padding: 10%;
-}
+    .card {
+        padding: 10%;
+    }
 
-.shadow {
-  width: 250px;
-  box-shadow: 0 40px 48px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  text-align: center;
-}
+    .shadow {
+        width: 250px;
+        box-shadow: 0 40px 48px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+    }
 </style>
 <script>
     VANTA.HALO({
