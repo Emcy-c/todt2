@@ -12,7 +12,7 @@
                     <div class="card-image">
                         <figure class="image container is-128x128">
                             <img class="is-rounded"
-                                 src="https://cdn.discordapp.com/avatars/{{ $json->id }}/{{ $json->avatar }}.gif?size=2048">
+                                 src="https://cdn.discordapp.com/avatars/{{ $json->id }}/{{ $json->avatar }}.png?size=2048">
                         </figure>
                     </div>
                     <div class="media-content has-text-centered">
