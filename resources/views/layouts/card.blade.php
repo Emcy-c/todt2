@@ -20,6 +20,7 @@
                     </div>
                     <br />
                     <div class="content">
+                    $json
                         A Cookie V2 with a passion for music & web development
                         <br />
                         <br />
